@@ -1,2 +1,2 @@
-# TCP-Progress-7-7-21
+# TCP-Progress
 This project is made to merge the TCP code on Nolan's laptop and desktop with the lab computer. As of 7/7/21, Nolan has been creating the TCP code from home on personal computers, and the goal is to get the lab computer to match the progress that has been made so far.  Additionally, it will be important to be able to work on any bit of code from different computers over the next few months, so this project will be a segue into making that possible.
